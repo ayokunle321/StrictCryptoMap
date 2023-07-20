@@ -1,4 +1,4 @@
-Encryption and Decryption Program (with mapping files)
+## Encryption and Decryption Program (with mapping files)
 
 ## Purpose
 
