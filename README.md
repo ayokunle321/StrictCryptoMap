@@ -9,7 +9,7 @@ The purpose of this program is to provide a simple implementation of an encrypti
 
 To execute the program, use the following command format:
 
-`make` to turn encrypt.c to an executable
+`make` to turn encrypt.c to an executable file
 
 `./encrypt -t <mappingfile> -m <encryption mode> -i <inputfile>`
 
